@@ -1,0 +1,14 @@
+{
+    "name": "vsc-ext-test-client",
+    "description": "VSCode extension test client",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "dependencies": {
+        "vscode-languageclient": "^8.0.2"
+    },
+    "devDependencies": {
+        "@types/vscode": "^1.74.0"
+    }
+}
